@@ -86,7 +86,7 @@ var myQuestions = [
         correctAnswer: 'b'
       },
     {
-      question: "9. Round \\({98,156.98156}\\) to the nearest ten-thousaand.",
+      question: "9. Round \\({98,156.98156}\\) to the nearest ten thousand.",
       answers: {
         a: '\\({98,156.9815}\\) <br>',
         b: '\\({98,156.9816}\\) <br>',
@@ -97,7 +97,7 @@ var myQuestions = [
     },
       
     {
-      question: "10. Which of the following decimal numbers is rounded to the nearest hundredth-thousandth?",
+      question: "10. Which of the following decimal numbers is rounded to the nearest hundred thousandth?",
       answers: {
         a: '\\({6.8093}\\) <br>',
         b: '\\({6.809}\\) <br>',
